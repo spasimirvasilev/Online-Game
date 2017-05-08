@@ -1,0 +1,60 @@
+/* style parts of the legend, the controls and the elements in the stage appropriately */
+.login {
+	width: 360px;
+	padding: 8% 0 0;
+	margin: auto;
+}
+
+input {
+	font-family: sans-serif;
+	outline: 0;
+	background: #f2f2f2;
+	width: 12%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+button {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width: 12%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+}
+.message a {
+	color: #4CAF50;
+	text-decoration: none;
+}
+nav {
+	float: left;
+	margin: 0;
+	position:absolute;
+	top: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 15px;
+}
+   
+nav ul a {
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    width: 4em;
+    margin: 5px;
+    border:1px solid black;
+    background: #4CAF50;
+    color: white;
+}
+
+body {
+	font-family: sans-serif;     
+}
